@@ -3,7 +3,6 @@
 > This page recognizes everyone who has contributed to the **student-notes** project.
 > Whether you fixed a typo, added notes, improved structure, or helped organize content —
 > every contribution matters and is appreciated here. 🙌
-
 ---
 
 ## 👥 Project Contributors
@@ -58,6 +57,5 @@ We welcome all students who want to contribute! Here's how to get started:
 
 [![All Contributors](https://img.shields.io/github/contributors/YOUR-USERNAME/student-notes?color=2b9348&style=for-the-badge)](https://github.com/YOUR-USERNAME/student-notes/graphs/contributors)
 
----
-
+---[👥 תורמים](./contributors.md)
 *Want to see your name here? Submit a pull request and join the team!* ✨
