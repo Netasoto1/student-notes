@@ -53,6 +53,7 @@ We welcome all students who want to contribute! Here's how to get started:
 
 ---
 
+
 ## 🏅 Contributors Badge
 
 [![All Contributors](https://img.shields.io/github/contributors/YOUR-USERNAME/student-notes?color=2b9348&style=for-the-badge)](https://github.com/YOUR-USERNAME/student-notes/graphs/contributors)
